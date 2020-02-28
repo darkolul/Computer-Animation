@@ -1,0 +1,162 @@
+\documentclass{screenplay}[2020/02/27]
+
+\usepackage{courier}
+\renewcommand*\familydefault{\ttdefault}
+\usepackage[T1]{fontenc}
+
+\title{The Fallen One}
+\author{Alan Manzanilla}
+\agent{02.27.2020}
+\address{ESCOM 3CV8}
+
+\begin{document}
+\coverpage
+
+%Let's start with the screenplay
+\fadein
+
+\textbf{\extslug[- Late Afternoon  - Present]{King Knight's Castle}}
+It is raining, everything is a mess outside THE KING'S CASTLE. The thunders outside are loudly. \\
+\vspace{5mm}
+THE YELLOW KNIGHT is climbing up the stairs to reach the main door of Thw King's Castle. \\
+\vspace{5mm}
+The Yellow Knight turns back and see THE ELITE KNIGHTS he has defeated. The Yellow Knight remembers. \\
+\vspace{5mm}
+
+\textbf{\extslug[- Day -  Flashback]{Near of the Village}}
+The Yellow Knight is training with his friends, PINK KNIGHT, RED KNIGHT and BLUE NIGHT.
+\\
+\vspace{5mm}
+Yellow Knight and Pink Knight are fighting against Blue Knight and Red Knight. It is training.
+\begin{dialogue}{Pink Knight}
+You are getting better with the sword, Y.
+\end{dialogue}
+\begin{dialogue}{Red Knight}
+He is just lucky. You and Pink are going to lose.
+\end{dialogue}
+\begin{dialogue}{Blue Knight}
+Everyday it gets easy, we need more knights for a different kind of battles.
+\end{dialogue}
+\begin{dialogue}{Pink Knight}
+I am agree with you, if we continue like this, we are not going to be part of the royal guard. 
+\end{dialogue}
+An EXPLOSION occurs in the VILLAGE.\\
+\vspace{5mm}
+The four knights run to the village. \\
+\vspace{5mm}
+The four knights see a bigger knight and other 4 shadows who are burning the village. \\ \vspace{5mm}
+The villagers are running in all directions to avoid the unknown knights.
+\begin{dialogue}{Pink Knight}
+Who are you? Why are you destroying the village?
+\end{dialogue}
+The BIGGER KNIGHT sees the pink knight.
+\begin{dialogue}{Grimm}
+Because the village has to known who is the new king. The name of your new king is GRIMM.
+\end{dialogue}
+The four knights are ready to fight against Grimm, but fastly, the others 4 shadows.
+\begin{dialogue}{Grimm}
+I see you have known my SPECTER KNIGHTS. This battle will be a good exercise for them. 
+\end{dialogue}
+The spectre knights start to fight against the color knights. Each spectre knight against one color knight.\\ \vspace{5mm}
+The red knight is defeated against a spectre knight. \\
+\vspace{5mm}
+The yellow knight is winning against one of the spectre knights. Grimm appears and knocks out the yellow knight. \\ \vspace{5mm}
+Grimm grabs the yellow knight and throws him off a cliff. The yellow knight only can see how he is falling off the cliff. \\ \vspace{5mm}
+Everything gets dark.
+\textbf{\extslug[- Night - Two days after Grimm]{Forest}}
+The yellow knight wakes up. He can see his body in front of him. He approaches his body and touches it. \\ \vspace{5mm}
+When the yellow knight touches his body, he returns to the body. The yellow knight can barely walk. He loses his sword.
+\\ \vspace{5mm}
+The yellow knight starts to walk through the forest. He finds the pink knight. \\ \vspace{5mm}
+The pink knight is hurt, but she can walk better than the yellow knight.  \\ \vspace{5mm}
+They find a house where they can rest this night.
+\textbf{\intslug[- Night]{Forest House}}
+They enter to the house, but there is no one here. They decided to rest.
+\begin{dialogue}{Pink Knight}
+I do not know who are those knights. I have never seen them. \\ \vspace{5mm}
+Blue knight told me that Grimm took the King Knight's Castle before he was captured. I could escape because he helped me. \\ \vspace{5mm}
+But I got injured.
+\end{dialogue}
+The pink knight looks the yellow knight.
+\begin{dialogue}{Pink Knight}
+We thought you were dead. But I see you cannot die. When you are closely to die, your soul escapes from your body, and you can return to it. \\ \vspace{5mm}
+Your sword was broken when you was fighting. You will need another one. I did not tell this to anyone, but the KING KNIGHT told me time ago about a sword to defeat anyone, you will need that sword. \\ \vspace{5mm}
+But in this moment, we need to rest.
+\end{dialogue}
+Both knights lay down to rest.
+\textbf{\extslug[- Afternoon]{King Knight's Castle}}
+Yellow and Pink knight are walking around the King Knight's Castle to find the sword.
+\begin{dialogue}{Pink Knight}
+We have to be quiet, anyone could be near of this place. 
+\end{dialogue}
+They are walking until Pink knight found the place, the sword is in a mausoleum. 
+\begin{dialogue}{Pink Knight}
+I found the sword. Take it, it could be easier and we could win this fight. \\ \vspace{5mm}
+I am going to the Village, I will help in that place. You will have to defeat Grimm. See you soon.
+\end{dialogue}
+The pink knight runs to the Village to help the villagers and the survived knights. \\ \vspace{5mm}
+When the yellow knight arrives to the esplanade of the castle, he finds the spectre knights, there are two spectre knights, the other two spectre knights are in the village. \\ \vspace{5mm}
+The yellow knight has to fight. \\ \vspace{5mm}
+One of the spectre knights runs towards the yellow knight, but he is defeated instantly with the new sword of the yellow knight. \\ \vspace{5mm}
+The other spectre knight cannot believe the power of that sword.
+\begin{dialogue}{Spectre Knight}
+(Angry)\\ \vspace{5mm}
+This cannot be happening. You did not have that power days ago. \\ \vspace{5mm}
+It does not matter, I am going to win.
+\end{dialogue}
+The spectre knight runs to the yellow knight, but he is faster and smarter than the other spectre knight.\\ \vspace{5mm}
+The yellow knight is in trouble. \\ \vspace{5mm}
+The spectre knight defeated the yellow knight. 
+\begin{dialogue}{Spectre Knight}
+You cannot win, I am better than you. Even if I lose, you cannot win against Grimm.
+\end{dialogue}
+The yellow knight's soul runs to his body to keep fighting. \\ \vspace{5mm}
+The spectre knight sees the soul and runs to stop it, but the spectre knight cannot reach the soul and the yellow knight backs to the fight. \\ \vspace{5mm}
+The yellow knight is faster and he has more power. He knows how to use the new sword. \\ \vspace{5mm}
+The yellow knight uses the sword and the sword starts to shine. \\ \vspace{5mm}
+The yellow knight makes a movement with his sword, the sword takes a blast and it hits the spectre knight. \\ \vspace{5mm}
+The hit of the blast was too powerful, the spectre knight is defeated.
+\begin{dialogue}{Spectre Knight}
+This ... is ... impossible. \\ \vspace{5mm}
+You... cannot... do... that.
+\end{dialogue}
+The spectre knight disappears. 
+\\ \vspace{5mm}
+The yellow knight starts to climbing the stairs.
+\\ \vspace{5mm}
+It starts to raining.
+\textbf{\extslug[- Late Afternoon  - Back To Present]{King Knight's Castle}}
+The yellow knight reaches the main door of the castle.\\ \vspace{5mm}
+The yellow knight is ready for his fate. \\ \vspace{5mm}
+The yellow knight opens the door. He knows that Grimm is waiting him.
+\textbf{\intslug[- Late Afternoon]{Main room of the King Knight's Castle}}
+The yellow knight enters the main room of the castle, in the throne he can see Grimm.
+\begin{dialogue}{Grimm}
+I hear everything. It is good you want to be a hero, but you are going to die, even if your soul can revive you.  \\ \vspace{5mm}
+This is my place, this is me kingdom.  \\ \vspace{5mm}
+The King Knight was sick and it is an opportunity.  \\ \vspace{5mm}
+So, if you want to restore the kingdom, you have to fight.
+\end{dialogue}
+Grimm stands up of the throne and grabs his sword.
+\begin{dialogue}{Grimm}
+This is the end, boy.
+\end{dialogue}
+Grimm runs to the yellow knight. Grimm is too fast for him. \\ \vspace{5mm}
+The yellow knight can barely dodge the attacks of Grimm.
+\\ \vspace{5mm}
+The yellow knight uses the same blast against Grimm, but Grimm dodge the blast.
+\begin{dialogue}{Grimm}
+Powerful movement, but too slow.
+\end{dialogue}
+Grimm attacks the yellow knight and Grimm hits him in his head. The helmet of the yellow knight has broken, but only one part of it.
+\\ \vspace{5mm}
+The yellow knight continues fighting. 
+\\ \vspace{5mm}
+The yellow knight charges the sword and it gets bright. But it is not a blast, it is for an attack.
+\\ \vspace{5mm}
+The yellow knight runs towards Grimm, he jumps and he is close to Grimm.
+\\ \vspace{5mm}
+The screen is illuminated and a sound of a sword is hearing.
+\fadeout
+\textbf{\theend}
+\end{document}
